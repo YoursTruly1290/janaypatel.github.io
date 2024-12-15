@@ -62,6 +62,10 @@ nav ul li a:hover {
   font-size: 2vw;
 }
 
+.bio {
+  font-size: 1.2vw;
+}
+
 #About,
 #Goals,
 #Experience,
