@@ -57,13 +57,17 @@ nav ul li a:hover {
   font-size: 6vw;
 }
 
-.title-heading p {
+.tags {
   margin-left: -10%;
   font-size: 2vw;
 }
 
 .bio {
-  font-size: 1vw;
+  color: #F0EBD8;
+  margin-left: -10%;
+  margin-top: 1vw;
+  font-size: 1.3vw;
+  width: 50vw;
 }
 
 #About,
